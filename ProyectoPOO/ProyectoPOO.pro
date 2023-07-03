@@ -12,11 +12,13 @@ SOURCES += \
     homemap.cpp \
     main.cpp \
     mainwindow.cpp \
+    placereslabel.cpp \
     plaintextlist.cpp
 
 HEADERS += \
     homemap.h \
     mainwindow.h \
+    placereslabel.h \
     plaintextlist.h
 
 FORMS += \

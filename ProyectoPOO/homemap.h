@@ -18,6 +18,7 @@ public:
 
 private slots:
     void on_pushButton_plainText_clicked();
+    void Mouse_current_pos();
 
 private:
     Ui::HomeMap *ui;

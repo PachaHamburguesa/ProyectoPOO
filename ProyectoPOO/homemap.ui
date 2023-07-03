@@ -13,7 +13,7 @@
   <property name="windowTitle">
    <string>Dialog</string>
   </property>
-  <widget class="QLabel" name="label_placeresMap">
+  <widget class="PlaceresLabel" name="label_placeresMap">
    <property name="geometry">
     <rect>
      <x>10</x>
@@ -70,7 +70,7 @@
      </item>
     </layout>
    </widget>
-   <widget class="QWidget" name="">
+   <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
       <x>10</x>
@@ -135,7 +135,7 @@
      <string>Show as plain text</string>
     </property>
    </widget>
-   <widget class="QWidget" name="">
+   <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
       <x>10</x>
@@ -153,7 +153,7 @@
       </widget>
      </item>
      <item>
-      <widget class="QLabel" name="label_distanceto_exit_2">
+      <widget class="QLabel" name="label_phone_exit">
        <property name="text">
         <string/>
        </property>
@@ -163,6 +163,13 @@
    </widget>
   </widget>
  </widget>
+ <customwidgets>
+  <customwidget>
+   <class>PlaceresLabel</class>
+   <extends>QLabel</extends>
+   <header location="global">placereslabel.h</header>
+  </customwidget>
+ </customwidgets>
  <resources/>
  <connections/>
 </ui>
