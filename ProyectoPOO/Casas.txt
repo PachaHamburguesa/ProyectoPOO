@@ -1,0 +1,101 @@
+Direccion:	Pago/Mes:	Distancia U:	Telefono:
+Mercedes 35	260k		3 cuadras	+56998765432
+San Luis 3254	320k		5 cuadras	+56923456235
+J. Carrera 235	280k		3 cuadras	+56998765433
+Matta 355	240k		7 cuadras	+56935633426
+Manuel Montt 45	150k		2 cuadras	+56924783428
+Mercedes 325	220k		5 cuadras	+56951233213
+San Luis 79	100k		8 cuadras	+56932232543
+J. Carrera 6864	180k		3 cuadras	+56921513213
+Matta 4883	240k		5 cuadras	+56948521604
+Manuel Montt 45	380k		8 cuadras	+56980498491
+Mercedes 883	300k		3 cuadras	+56984060846
+San Luis 585	90k		2 cuadras	+56964868464
+J. Carrera 38	100k		6 cuadras	+56921486465
+Matta 669	100k		3 cuadras	+56932514684
+Manuel Montt 45	180k		2 cuadras	+56915861484
+Mercedes 4884	210k		2 cuadras	+56965108086
+San Luis 589	210k		3 cuadras	+56900864564
+J. Carrera 1293	200k		4 cuadras	+56908646788
+Matta 979	190k		7 cuadras	+56900864654
+Manuel Montt 45	70k		5 cuadras	+56906854684
+Mercedes 467	260k		5 cuadras	+56956468705
+San Luis 422	250k		2 cuadras	+56905424864
+J. Carrera 244	220k		2 cuadras	+56940896545
+Matta 2467	300k		1 cuadras	+56906454854
+Manuel Montt 45	350k		1 cuadras	+56908465687
+Mercedes 35	260k		3 cuadras	+56998765432
+San Luis 3254	320k		5 cuadras	+56923456235
+J. Carrera 235	280k		3 cuadras	+56998765433
+Matta 355	240k		7 cuadras	+56935633426
+Manuel Montt 45	150k		2 cuadras	+56924783428
+Mercedes 325	220k		5 cuadras	+56951233213
+San Luis 79	100k		8 cuadras	+56932232543
+J. Carrera 6864	180k		3 cuadras	+56921513213
+Matta 4883	240k		5 cuadras	+56948521604
+Manuel Montt 45	380k		8 cuadras	+56980498491
+Mercedes 883	300k		3 cuadras	+56984060846
+San Luis 585	90k		2 cuadras	+56964868464
+J. Carrera 38	100k		6 cuadras	+56921486465
+Matta 669	100k		3 cuadras	+56932514684
+Manuel Montt 45	180k		2 cuadras	+56915861484
+Mercedes 4884	210k		2 cuadras	+56965108086
+San Luis 589	210k		3 cuadras	+56900864564
+J. Carrera 1293	200k		4 cuadras	+56908646788
+Matta 979	190k		7 cuadras	+56900864654
+Manuel Montt 45	70k		5 cuadras	+56906854684
+Mercedes 467	260k		5 cuadras	+56956468705
+San Luis 422	250k		2 cuadras	+56905424864
+J. Carrera 244	220k		2 cuadras	+56940896545
+Matta 2467	300k		1 cuadras	+56906454854
+Manuel Montt 45	350k		1 cuadras	+56908465687
+Mercedes 35	260k		3 cuadras	+56998765432
+San Luis 3254	320k		5 cuadras	+56923456235
+J. Carrera 235	280k		3 cuadras	+56998765433
+Matta 355	240k		7 cuadras	+56935633426
+Manuel Montt 45	150k		2 cuadras	+56924783428
+Mercedes 325	220k		5 cuadras	+56951233213
+San Luis 79	100k		8 cuadras	+56932232543
+J. Carrera 6864	180k		3 cuadras	+56921513213
+Matta 4883	240k		5 cuadras	+56948521604
+Manuel Montt 45	380k		8 cuadras	+56980498491
+Mercedes 883	300k		3 cuadras	+56984060846
+San Luis 585	90k		2 cuadras	+56964868464
+J. Carrera 38	100k		6 cuadras	+56921486465
+Matta 669	100k		3 cuadras	+56932514684
+Manuel Montt 45	180k		2 cuadras	+56915861484
+Mercedes 4884	210k		2 cuadras	+56965108086
+San Luis 589	210k		3 cuadras	+56900864564
+J. Carrera 1293	200k		4 cuadras	+56908646788
+Matta 979	190k		7 cuadras	+56900864654
+Manuel Montt 45	70k		5 cuadras	+56906854684
+Mercedes 467	260k		5 cuadras	+56956468705
+San Luis 422	250k		2 cuadras	+56905424864
+J. Carrera 244	220k		2 cuadras	+56940896545
+Matta 2467	300k		1 cuadras	+56906454854
+Manuel Montt 45	350k		1 cuadras	+56908465687
+Mercedes 35	260k		3 cuadras	+56998765432
+San Luis 3254	320k		5 cuadras	+56923456235
+J. Carrera 235	280k		3 cuadras	+56998765433
+Matta 355	240k		7 cuadras	+56935633426
+Manuel Montt 45	150k		2 cuadras	+56924783428
+Mercedes 325	220k		5 cuadras	+56951233213
+San Luis 79	100k		8 cuadras	+56932232543
+J. Carrera 6864	180k		3 cuadras	+56921513213
+Matta 4883	240k		5 cuadras	+56948521604
+Manuel Montt 45	380k		8 cuadras	+56980498491
+Mercedes 883	300k		3 cuadras	+56984060846
+San Luis 585	90k		2 cuadras	+56964868464
+J. Carrera 38	100k		6 cuadras	+56921486465
+Matta 669	100k		3 cuadras	+56932514684
+Manuel Montt 45	180k		2 cuadras	+56915861484
+Mercedes 4884	210k		2 cuadras	+56965108086
+San Luis 589	210k		3 cuadras	+56900864564
+J. Carrera 1293	200k		4 cuadras	+56908646788
+Matta 979	190k		7 cuadras	+56900864654
+Manuel Montt 45	70k		5 cuadras	+56906854684
+Mercedes 467	260k		5 cuadras	+56956468705
+San Luis 422	250k		2 cuadras	+56905424864
+J. Carrera 244	220k		2 cuadras	+56940896545
+Matta 2467	300k		1 cuadras	+56906454854
+Manuel Montt 45	350k		1 cuadras	+56908465687
